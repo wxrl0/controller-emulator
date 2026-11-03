@@ -1,5 +1,5 @@
 # controller-emulator
-controller emulator for fps games check discord for more info 
+controller emulator check discord for more info 
 https://discord.gg/7cTxg2Es4X
 
 
